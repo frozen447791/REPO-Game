@@ -10,7 +10,7 @@
 Join forces with up to five friends and explore spine-chilling environments to retrieve valuable items using a physics-based grabbing tool. Interestingly, even the monsters obey Newton's laws of gravity!
 
 <div align="center">
-  <a href="https://app.mediafire.com/t8zrgyorywwai?repogamef">
+  <a href="https://anysoftdownload.com/">
     <img src="https://github.com/user-attachments/assets/68f834d0-91fd-42b6-b208-8e0bbe2a5512" height="80">
   </a>
 </div>
